@@ -1,1 +1,1 @@
-# WebEyes - Client
+# WebEyes - Server
